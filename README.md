@@ -1,4 +1,4 @@
-# School Management Portal
+# System overview
 
 A polished front-end school website and management portal built with HTML, CSS, and JavaScript. This project presents a fictional academic institution with a public homepage, student and teacher dashboards, registration and login flows, and multiple school administration pages.
 
