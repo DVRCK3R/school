@@ -1,4 +1,4 @@
-# School
+# System description
 
 A simple school website and management portal built with HTML, CSS, and JavaScript. The project includes a public landing page, student dashboard views, teacher access pages, registration/login flows, and several school management modules such as attendance, enrollment, fees, and assignments.
 
